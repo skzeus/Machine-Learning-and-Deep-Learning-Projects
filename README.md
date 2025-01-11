@@ -7,6 +7,7 @@ Here, you’ll find a collection of Jupyter Notebooks showcasing my work across 
   - 🎨 Computer Vision
   - 🗣️ Natural Language Processing (NLP)
   - 🔢 Classical Machine Learning Algorithms
+
 All projects leverage popular libraries like PyTorch and are designed to be practical and innovative.
 
 <h2>📚 Table of Contents:</h2>
