@@ -2,11 +2,11 @@
 
 🌟 Overview:
 Welcome to my Machine Learning and Deep Learning projects repository! 🧠✨
+
 Here, you’ll find a collection of Jupyter Notebooks showcasing my work across diverse domains, including:
   - 🎨 Computer Vision
   - 🗣️ Natural Language Processing (NLP)
   - 🔢 Classical Machine Learning Algorithms
-  - 
 All projects leverage popular libraries like PyTorch and are designed to be practical and innovative.
 
 📚 Table of Contents
