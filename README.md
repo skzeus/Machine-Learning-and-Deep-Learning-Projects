@@ -1,6 +1,6 @@
-🚀 Machine Learning & Deep Learning Repository:
+<h1>🚀 Machine Learning & Deep Learning Repository:</h1>
 
-🌟 Overview:
+<h2>🌟 Overview:</h2>
 Welcome to my Machine Learning and Deep Learning projects repository! 🧠✨
 
 Here, you’ll find a collection of Jupyter Notebooks showcasing my work across diverse domains, including:
@@ -9,7 +9,7 @@ Here, you’ll find a collection of Jupyter Notebooks showcasing my work across 
   - 🔢 Classical Machine Learning Algorithms
 All projects leverage popular libraries like PyTorch and are designed to be practical and innovative.
 
-📚 Table of Contents
+<h2>📚 Table of Contents:</h2>
 
   - MLP 🧮:
     A simple implementation of a basic Multi-Layer Perceptron (MLP) for a linear regression task.
